@@ -7,8 +7,8 @@ export default {
   name: "App",
   data() {
     return {
-      value: "World"
+      value: "Nick",
     };
-  }
+  },
 };
 </script>
